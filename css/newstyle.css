@@ -1,0 +1,41 @@
+body {
+    background: url(../images/DnDWallpaperPHB.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 200%;
+}
+
+.carousel-item {
+    height: 32rem;
+}
+
+.title__card {
+    background: rgb(54, 0, 0, 0.5);
+    border-radius: 50%;
+    color: antiquewhite;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+main {
+    background: rgb(54, 0, 0, 0.5);
+    border-radius: 5%;
+}
+
+.footer__icon {
+    color: antiquewhite;
+}
+
+.footer__icon img:hover {
+    transform: scale(1.25);
+    transition-duration: 300ms;
+}
+
+.shop__item:hover {
+    transform: scale(1.07);
+    transition-duration: 500ms;
+}
+
+#cb1 {
+    accent-color: #9b59b6;
+}
